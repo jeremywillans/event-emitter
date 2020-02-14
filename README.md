@@ -8,6 +8,9 @@ This component creates a service `event_emitter.call` that lets you emit a call-
 
 There is no restirction on parameters allowing total flexibility.
 
+![Emitter Example](emitter_example.png)
+
+
 ## Install
 1. Install with [HACS](https://github.com/custom-components/hacs) or copy the `custom_components` folder in your HA configuration folder.
 2. Add
