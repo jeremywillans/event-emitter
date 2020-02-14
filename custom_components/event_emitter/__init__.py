@@ -8,7 +8,7 @@ DOMAIN = "event_emitter"
 def setup(hass, config):
     """Set up is called when Home Assistant is loading our component."""
 
-    generic_event = EventEmitter(hass)
+    event_emitter = EventEmitter(hass)
     hass.services.register(DOMAIN, "call", event_emitter.call)
 
     _LOGGER.debug("Started Event Emitter")
