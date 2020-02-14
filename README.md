@@ -3,7 +3,7 @@
 ## Custom Component For Home Assistant
 
 [![gh_release][gh_release]](event-emitter/releases)
-[![gh_last_commit][gh_last_commit]](/commits/master)
+[![gh_last_commit][gh_last_commit]](../../commits/master)
 [![hacs_custom][hacs_custom]](https://github.com/custom-components/hacs)
 
 This component creates a service `event_emitter.call` that lets you emit a call-service event. This can be used to pass Service data between components such as to Node Red.
