@@ -1,0 +1,7 @@
+{
+  "name": "Event Emitter",
+  "render_readme": true,
+  "domains": [
+    "event_emitter"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "domain": "generic_event",
+    "name": "Generic Event",
+    "documentation": "https://github.com/jeremywillans/generic_event",
+    "dependencies": [],
+    "codeowners": ["@jeremywillans"],
+    "requirements": []
+  }

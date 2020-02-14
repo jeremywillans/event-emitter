@@ -1,0 +1,15 @@
+call:
+  description: Emits a call-service event.
+  fields:
+    entity_id:
+      description: entity_id 
+      example: "media_player.lounge"
+    field1:
+      description: "Generic field 1"
+      example: "generic_text_1"
+    field2:
+      description: "Generic field 2"
+      example: "generic_text_2"
+    different3:
+      description: "Generic field 3"
+      example: "different_text_3"
