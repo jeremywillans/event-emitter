@@ -2,7 +2,7 @@
 
 ## Custom Component For Home Assistant
 
-[![gh_release][gh_release]](event-emitter/releases)
+[![gh_release][gh_release]](../../releases)
 [![gh_last_commit][gh_last_commit]](../../commits/master)
 [![hacs_custom][hacs_custom]](https://github.com/custom-components/hacs)
 
