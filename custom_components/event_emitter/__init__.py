@@ -11,7 +11,7 @@ def setup(hass, config):
     generic_event = EventEmitter(hass)
     hass.services.register(DOMAIN, "call", event_emitter.call)
 
-    _LOGGER.debug("Started Generic Event")
+    _LOGGER.debug("Started Event Emitter")
 
     return True
 

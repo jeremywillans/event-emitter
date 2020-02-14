@@ -1,7 +1,7 @@
 {
-    "domain": "generic_event",
-    "name": "Generic Event",
-    "documentation": "https://github.com/jeremywillans/generic_event",
+    "domain": "event_emitter",
+    "name": "Event Emitter",
+    "documentation": "https://github.com/jeremywillans/event_emitter",
     "dependencies": [],
     "codeowners": ["@jeremywillans"],
     "requirements": []
