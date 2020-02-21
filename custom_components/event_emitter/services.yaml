@@ -1,6 +1,9 @@
 call:
   description: Emits a call-service event.
   fields:
+    event:
+      description: event_id
+      example: sonos_tts
     entity_id:
       description: entity_id 
       example: "media_player.lounge"

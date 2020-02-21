@@ -22,6 +22,7 @@ There is no restirction on parameters allowing total flexibility.
     to the `configuration.yaml`
 
 ## Example Service Parameters
+- `entity`: Example Event ID (eg. `sonos_tts`)
 - `entity_id`: Example entity id   (eg. `media_player.lounge`) [optional]
 - `field1`: Generic field 1
 - `field2`: Generic field 2
