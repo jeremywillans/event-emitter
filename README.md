@@ -6,9 +6,11 @@
 [![gh_last_commit][gh_last_commit]](../../commits/master)
 [![hacs_custom][hacs_custom]][hacs]
 
-This component creates a service `event_emitter.call` that lets you emit a call-service event. This can be used to pass Service data between components such as to Node Red.
+This component creates a service `event_emitter.call` that lets you emit a call-service event. This can be used to pass Service data between components such as from the Lovelace UI to Node Red.
 
 There is no restirction on parameters allowing total flexibility.
+
+In the below use-case example, a service data field `event` is used to route flows in Node Red.
 
 ![Emitter Example](emitter_example.png)
 
