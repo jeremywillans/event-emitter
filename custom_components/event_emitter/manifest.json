@@ -4,5 +4,6 @@
     "documentation": "https://github.com/jeremywillans/event_emitter",
     "dependencies": [],
     "codeowners": ["@jeremywillans"],
-    "requirements": []
+    "requirements": [],
+    "version": "0.2"
   }
